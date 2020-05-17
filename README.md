@@ -1,2 +1,2 @@
-<h3> Dicoding project submission <h/3>
+<h3> Dicoding project submission </h3>
 Rock Paper Scissors Image Classification using CNN
